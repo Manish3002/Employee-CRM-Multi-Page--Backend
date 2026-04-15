@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeCRM.Web\\EmployeeCRM.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmployeeCRM.Api\\EmployeeCRM.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmployeeCRM.Api/EmployeeCRM.Api.csproj" />
+  <Project Path="EmployeeCRM.Tests/EmployeeCRM.Tests.csproj" Id="81bd56e3-830d-49a0-bc92-1871fda673e3" />
+  <Project Path="EmployeeCRM.Web/EmployeeCRM.Web.csproj" />
+</Solution>
